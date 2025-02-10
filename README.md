@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hii 👋 I'm Prajyot Shejwal.
 🔭 I’m currently working on MERN Stack.<br>👯 I’m looking to collaborate on Web development projects, especially those involving Node.js, Express, MongoDB, and front-end 
     technologies. <br>🤝 I’m looking for help with Improving UI/UX in my projects.<br>🌱 I’m currently learning Advanced web development (Node.js, Express, MongoDB) and building full-stack applications<br>💬 Ask me about Web development (HTML, CSS, JavaScript, Node.js, Express, MongoDB).<br>⚡ Fun fact - I do gardening along with coding and gym workouts.
 
